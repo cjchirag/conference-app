@@ -40,7 +40,7 @@ class ListingImageTest extends TestCase
     public function testBuildPathImage()
     {
         define('BASE_URL', '/');
-        $data = [
+        $data = [ 
             'id' => 1,
             'title' => 'Test Title',
             'image' => 'images/listings/1.png',

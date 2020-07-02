@@ -6,8 +6,8 @@ ListingBasic
  [x] Status verify
  [x] Data validity
  [x] Array conversion verification
- [x] Set websites
- [x] Set status
+ [x] Testing set websites
+ [x] Testing set status
 
 ListingFeatured
  [x] Status verification
