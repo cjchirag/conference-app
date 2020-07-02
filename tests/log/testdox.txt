@@ -1,0 +1,25 @@
+ListingBasic
+ [x] Construct exception message
+ [x] I d validity
+ [x] Title validity
+ [x] Creation verify
+ [x] Status verify
+ [x] Data validity
+ [x] Array conversion verification
+ [x] Set websites
+ [x] Set status
+
+ListingFeatured
+ [x] Status verification
+ [x] C o c verification
+
+ListingImage
+ [x] No image
+ [x] Full path image
+ [x] Build path image
+
+ListingPremium
+ [x] Status verification
+ [x] Description verification
+ [x] Testing for allowed tags
+
